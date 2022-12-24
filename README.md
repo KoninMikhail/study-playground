@@ -4,8 +4,6 @@ Playground with my expirience 😁
 ---
 # Books
 
----
-
 | Book                                                                                                                                                                                                                                                                                                                                                                                                |  language  |  Book playground  | Status  |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------:|:-----------------:|:-------:|
 | [Effective Typescript: 62 Specific Ways to Improve Your TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740/ref=sr_1_1?crid=3TRYJR9F49XYN&keywords=Effective+Typescript%3A+62+Specific+Ways+to+Improve+Your+TypeScript&qid=1671872328&s=books&sprefix=effective+typescript+62+specific+ways+to+improve+your+typescript%2Cstripbooks-intl-ship%2C253&sr=1-1) | TypeScript | [Show](https://#) | reading |
@@ -13,7 +11,6 @@ Playground with my expirience 😁
 
 # Technologes
 
----
 ### State Management
 
 | Tecnology                           | Languages      |                                  Description                                   |                                          Pet-project                                          | Date |
