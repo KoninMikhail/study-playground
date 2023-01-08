@@ -1,7 +1,6 @@
-# learning
-Playground with my expirience 😁
+# **Study playground**
+> Sandboxes, books, experiments and everything to improve the quality of the code.
 
----
 # Books
 
 | Book                                                                                                                                                                                                                                                                                                                                                                                                       |  language  |  Status   |
