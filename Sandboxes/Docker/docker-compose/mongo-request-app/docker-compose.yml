@@ -1,0 +1,7 @@
+ version: '4'
+
+ services:
+    app: 
+      build: ./app
+    mongo: 
+      image: mongo

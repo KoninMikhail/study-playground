@@ -1,7 +1,5 @@
-# **Study playground**
-> Sandboxes, books, experiments and everything to improve the quality of the code.
-
 # Books
+> Sandboxes, books, experiments and everything to improve the quality of the code.
 
 | Book                                                                                                                                                                                                                                                                                                                                                                                                       |  language  |  Status   |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------:|:---------:|
@@ -11,6 +9,13 @@
 | [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)                                                                                                                                                                                                                             |     -      | completed |
 
 # Tools
+### Virtualization
+| Name                          |                      Description                       |                                    Playground link                                     | 
+|:------------------------------|:------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+| [Docker](https://www.docker/) | Docker is an open source platform that enables developers to build, deploy, run, update and manage containers. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Sandboxes/Docker) |
+
+
+# Packages
 
 ### State Management
 
@@ -24,7 +29,7 @@
 |:-----------------------------------------|:-----------|:-----------------:|:-------------------------------------------------------------------------------------------------:|:-------:|
 | [Zod](https://github.com/colinhacks/zod) | Typescript |If you need a guarantee that the data is equivalent to a type, this is your choice. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Technologies/Validators/Zod)  |  12/22  |
 
-# Learning Platforms
+# Platforms
 
 | Name                                   |                      Description                       |                                          Completed tasks                                           |                                            Profile link                                            |
 |:--------------------------------------|:------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|

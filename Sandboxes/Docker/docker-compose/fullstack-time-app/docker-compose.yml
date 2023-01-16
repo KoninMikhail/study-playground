@@ -1,0 +1,41 @@
+version: '4'
+
+services:
+  frontend:
+    build: ./frontend
+    restart: always
+    ports:
+      - 3000:3000
+    volumes:
+      - /app/node_modules
+      - ./frontend:/app
+  api: 
+    build: ./api
+    depends_on:
+      - mysql
+    restart: always
+    ports:
+      - 5555:5000
+    volumes:
+      - /app/node_modules
+      - ./api:/app
+  mysql:
+      image: mysql
+      command: --default-authentication-plugin=mysql_native_password
+      restart: always
+      volumes:
+        - mysql_data:/var/lib/mysql
+      environment:
+        MYSQL_HOST: mysql
+        MYSQL_USER: user
+        MYSQL_PORT: 3306
+        MYSQL_PASSWORD: root
+        MYSQL_DB: time_db
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8888:8080
+volumes:
+  mysql_data:
+    
