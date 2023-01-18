@@ -7,4 +7,4 @@ month = int(input('Пожалуйста введите месяц:'))
 
 print(calendar.month(year, month))
 
-print('Всего хорошего!');
+print('Всего хорошего!')
