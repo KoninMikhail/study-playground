@@ -1,0 +1,5 @@
+version: '4'
+
+services:
+  node:
+    image: node:lts

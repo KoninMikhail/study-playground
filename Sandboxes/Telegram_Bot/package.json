@@ -1,0 +1,37 @@
+{
+  "name": "booking-telegram-bot-nodejs",
+  "version": "0.0.0",
+  "description": "In developent",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoninMikhail/booking-telegram-bot-nodejs.git"
+  },
+  "author": "Mikhail Konin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KoninMikhail/booking-telegram-bot-nodejs/issues"
+  },
+  "homepage": "https://github.com/KoninMikhail/booking-telegram-bot-nodejs#readme",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^18.11.18",
+    "@typescript-eslint/eslint-plugin": "^5.48.2",
+    "eslint": "^8.32.0",
+    "eslint-config-standard-with-typescript": "^30.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.11.2",
+    "telegraf-session-local": "^2.1.0"
+  }
+}

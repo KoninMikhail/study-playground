@@ -34,3 +34,11 @@
 | Name                                   |                      Description                       |                                          Completed tasks                                           |                                            Profile link                                            |
 |:--------------------------------------|:------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
 | [CodeWars](https://www.codewars.com/) | Good platform for developing basic programming skills. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Learning%20Platforms/CodeWars) | [Show](https://www.codewars.com/users/HelloHeitz) |
+
+
+# Side experience
+### Backend
+| Name                                                    |                                    Description                                     |                                    Playground link                                     | 
+|:--------------------------------------------------------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+| [Simple Telegram Bot (Telegraf.js)](https://www.docker/) | Extra simple boilerplate bot for future projects. Based on typescript and classes. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Sandboxes/Telegram_Bot) |
+
