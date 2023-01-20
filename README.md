@@ -21,13 +21,20 @@
 
 | Tecnology                           | Languages      |                                  Description                                   |                                          Pet-project                                          | Date |
 |:------------------------------------|:---------------|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:| :---: |
-| [Zustand](https://github.com/pmndrs/zustand)  | JS, Typescript | Very simple state manager with more than one stores. Using React not required. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Technologies/Validators/Zod) | 12 /22 |
+| [Zustand](https://github.com/pmndrs/zustand)  | JS, Typescript | Very simple state manager with more than one stores. Using React not required. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod) | 12 /22 |
 
 ### Validation
 
 | Tecnology                                |  Languages      |    Description    |                                            Pet-project                                            |  Date   |
 |:-----------------------------------------|:-----------|:-----------------:|:-------------------------------------------------------------------------------------------------:|:-------:|
-| [Zod](https://github.com/colinhacks/zod) | Typescript |If you need a guarantee that the data is equivalent to a type, this is your choice. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Technologies/Validators/Zod)  |  12/22  |
+| [Zod](https://github.com/colinhacks/zod) | Typescript |If you need a guarantee that the data is equivalent to a type, this is your choice. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod)  |  12/22  |
+
+### UI
+
+| Tecnology                                                                                  |                                    Description                                     |                                            Pet-project                                            | Date  |
+|:-------------------------------------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-----:|
+| [Storybook](https://storybook.js.org/)                                                     | Storybook is a frontend workshop for building UI components and pages in isolation. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/UI/Storybook)  | 01/23 |
+
 
 # Platforms
 
