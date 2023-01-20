@@ -12,7 +12,7 @@
 ### Virtualization
 | Name                          |                      Description                       |                                    Playground link                                     | 
 |:------------------------------|:------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
-| [Docker](https://www.docker/) | Docker is an open source platform that enables developers to build, deploy, run, update and manage containers. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Sandboxes/Docker) |
+| [Docker](https://www.docker.com/) | Docker is an open source platform that enables developers to build, deploy, run, update and manage containers. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Sandboxes/Docker) |
 
 
 # Packages
