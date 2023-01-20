@@ -31,9 +31,9 @@
 
 ### UI
 
-| Tecnology                                                                                  |                                    Description                                     |                                            Pet-project                                            | Date  |
-|:-------------------------------------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-----:|
-| [Storybook](https://storybook.js.org/)                                                     | Storybook is a frontend workshop for building UI components and pages in isolation. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/UI/Storybook)  | 01/23 |
+| Tecnology                                                                                  |                                    Description                                     | Pet-project | Date |
+|:-------------------------------------|:----------------------------------------------------------------------------------:|:-----------:|:----:|
+| [Storybook](https://storybook.js.org/)                                                     | Storybook is a frontend workshop for building UI components and pages in isolation. |    in progress    |  -   |
 
 
 # Platforms
