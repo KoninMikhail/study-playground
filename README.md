@@ -25,9 +25,10 @@
 
 ### Validation
 
-| Tecnology                                |  Languages      |    Description    |                                            Pet-project                                            |  Date   |
-|:-----------------------------------------|:-----------|:-----------------:|:-------------------------------------------------------------------------------------------------:|:-------:|
-| [Zod](https://github.com/colinhacks/zod) | Typescript |If you need a guarantee that the data is equivalent to a type, this is your choice. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod)  |  12/22  |
+| Tecnology                                |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
+|:-----------------------------------------|:-----------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-----:|
+| [Zod](https://github.com/colinhacks/zod) | Typescript |If you need a guarantee that the data is equivalent to a type, this is your choice. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod)  | 12/22 |
+| [typescript-plugin-css-modules](https://www.npmjs.com/package/typescript-plugin-css-modules) | Typescript |               A TypeScript language service plugin for CSS Modules.                | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/TypescriptPluginCSSModules)  | 01/23 |
 
 ### UI
 
