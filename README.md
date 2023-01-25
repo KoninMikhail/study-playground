@@ -36,6 +36,12 @@
 |:-------------------------------------|:----------------------------------------------------------------------------------:|:-----------:|:----:|
 | [Storybook](https://storybook.js.org/)                                                     | Storybook is a frontend workshop for building UI components and pages in isolation. |    in progress    |  -   |
 
+### Localization
+
+| Tecnology                                                                                  |                                                    Description                                                    |    Pet-project    | Date  |
+|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|:-----------------:|:-----:|
+| [react-i18next](https://react.i18next.com/)                                                     |                react-i18next is a powerful internationalization framework for React.                | Use in freelance. | 01/23 |
+
 
 # Platforms
 
