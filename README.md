@@ -48,6 +48,7 @@
 | Name                                   |                      Description                       |                                          Completed tasks                                           |                                            Profile link                                            |
 |:--------------------------------------|:------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
 | [CodeWars](https://www.codewars.com/) | Good platform for developing basic programming skills. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Learning%20Platforms/CodeWars) | [Show](https://www.codewars.com/users/HelloHeitz) |
+| [react-intl](https://formatjs.io/)                                                     | Formatjs is a set of libraries that help you setup internationalization in any project whether it's React or not. |    Use in freelance.   | 01/23 |
 
 
 # Side experience
