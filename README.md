@@ -23,6 +23,11 @@
 |:------------------------------------|:---------------|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:| :---: |
 | [Zustand](https://github.com/pmndrs/zustand)  | JS, Typescript | Very simple state manager with more than one stores. Using React not required. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod) | 12 /22 |
 
+### Requests
+| Tecnology                               |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
+|:----------------------------------------|:-----------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-----:|
+| [ky](https://github.com/sindresorhus/ky) | Typescript |Ky is a tiny and elegant HTTP client based on the browser Fetch API. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Requests/ky)  | 01/23 |
+
 ### Validation
 
 | Tecnology                                |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
