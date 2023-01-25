@@ -19,31 +19,31 @@
 
 ### State Management
 
-| Tecnology                           | Languages      |                                  Description                                   |                                          Pet-project                                          | Date |
-|:------------------------------------|:---------------|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:| :---: |
-| [Zustand](https://github.com/pmndrs/zustand)  | JS, Typescript | Very simple state manager with more than one stores. Using React not required. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod) | 12 /22 |
+| Name                                            | Languages      |                                  Description                                   |                                          Pet-project                                          | Date |
+|:---------------------------------------------|:---------------|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:| :---: |
+| [Zustand](https://github.com/pmndrs/zustand) | JS, Typescript | Very simple state manager with more than one stores. Using React not required. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod) | 12 /22 |
 
 ### Requests
-| Tecnology                               |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
+| Name                                |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
 |:----------------------------------------|:-----------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-----:|
 | [ky](https://github.com/sindresorhus/ky) | Typescript |Ky is a tiny and elegant HTTP client based on the browser Fetch API. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Requests/ky)  | 01/23 |
 
 ### Validation
 
-| Tecnology                                |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
+| Name                                |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
 |:-----------------------------------------|:-----------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-----:|
 | [Zod](https://github.com/colinhacks/zod) | Typescript |If you need a guarantee that the data is equivalent to a type, this is your choice. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod)  | 12/22 |
 | [typescript-plugin-css-modules](https://www.npmjs.com/package/typescript-plugin-css-modules) | Typescript |               A TypeScript language service plugin for CSS Modules.                | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/TypescriptPluginCSSModules)  | 01/23 |
 
 ### UI
 
-| Tecnology                                                                                  |                                    Description                                     | Pet-project | Date |
+| Name                                                                                   |                                    Description                                     | Pet-project | Date |
 |:-------------------------------------|:----------------------------------------------------------------------------------:|:-----------:|:----:|
 | [Storybook](https://storybook.js.org/)                                                     | Storybook is a frontend workshop for building UI components and pages in isolation. |    in progress    |  -   |
 
 ### Localization
 
-| Tecnology                                                                                  |                                                    Description                                                    |    Pet-project    | Date  |
+| Name                                                                                  |                                                    Description                                                    |    Pet-project    | Date  |
 |:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|:-----------------:|:-----:|
 | [react-i18next](https://react.i18next.com/)                                                     |                react-i18next is a powerful internationalization framework for React.                | Use in freelance. | 01/23 |
 | [react-intl](https://formatjs.io/)                                                     | Formatjs is a set of libraries that help you setup internationalization in any project whether it's React or not. |    Use in freelance.   | 01/23 |
