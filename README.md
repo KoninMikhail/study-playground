@@ -35,6 +35,12 @@
 | [Zod](https://github.com/colinhacks/zod) | Typescript |If you need a guarantee that the data is equivalent to a type, this is your choice. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod)  | 12/22 |
 | [typescript-plugin-css-modules](https://www.npmjs.com/package/typescript-plugin-css-modules) | Typescript |               A TypeScript language service plugin for CSS Modules.                | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/TypescriptPluginCSSModules)  | 01/23 |
 
+### UI
+
+| Name                                               |  Languages      |                                    Description                                    |                                     Pet-project                                      | Date  |
+|:---------------------------------------------------|:-----------|:---------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|:-----:|
+| [Framer Motion](https://www.framer.com/motion/) | Typescript |     Framer Motion is a production-ready motion library for React from Framer.     | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/UI/Framer) | 01/23 |
+
 ### Testing
 
 | Name                                                                                   |                                    Description                                     | Pet-project | Date |
