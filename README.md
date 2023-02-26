@@ -15,6 +15,12 @@
 | [Docker](https://www.docker.com/) | Docker is an open source platform that enables developers to build, deploy, run, update and manage containers. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Sandboxes/Docker) |
 
 
+# Frameworks
+| Name                          | Languages      |                                                                              Description                                                                               | Pet-project | Date  |
+|:------------------------------|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|:-----:|
+| [Next.js](https://nextjs.org/) | Typescript | Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites. |     learning     | 02/23 |
+
+
 # Packages
 
 ### State Management
