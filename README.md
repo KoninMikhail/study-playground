@@ -50,10 +50,10 @@
 
 ### Localization
 
-| Name                                                                                  |                                                    Description                                                    |    Pet-project    | Date  |
-|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|:-----------------:|:-----:|
-| [react-i18next](https://react.i18next.com/)                                                     |                react-i18next is a powerful internationalization framework for React.                | Use in freelance. | 01/23 |
-| [react-intl](https://formatjs.io/)                                                     | Formatjs is a set of libraries that help you setup internationalization in any project whether it's React or not. |    Use in freelance.   | 01/23 |
+| Name                                                                                  |                                                    Description                                                    |                     Pet-project                     | Date  |
+|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|:-----:|
+| [react-i18next](https://react.i18next.com/)                                                     |                react-i18next is a powerful internationalization framework for React.                | [Show](https://github.com/KoninMikhail/snake-game). | 01/23 |
+| [react-intl](https://formatjs.io/)                                                     | Formatjs is a set of libraries that help you setup internationalization in any project whether it's React or not. |                          -                          | 01/23 |
 
 
 # Platforms
