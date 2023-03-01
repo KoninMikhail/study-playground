@@ -27,26 +27,26 @@
 
 | Name                                            | Languages      |                                  Description                                   |                                          Pet-project                                          | Date |
 |:---------------------------------------------|:---------------|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:| :---: |
-| [Zustand](https://github.com/pmndrs/zustand) | JS, Typescript | Very simple state manager with more than one stores. Using React not required. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod) | 12 /22 |
+| [Zustand](https://github.com/pmndrs/zustand) | JS, Typescript | Very simple state manager with more than one stores. Using React not required. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/Validators/Zod) | 12 /22 |
 
 ### Requests
 | Name                                                  |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
 |:------------------------------------------------------|:-----------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-----:|
-| [ky](https://github.com/sindresorhus/ky)              | Typescript |Ky is a tiny and elegant HTTP client based on the browser Fetch API. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Requests/ky)  | 01/23 |
-| [Tanstack Query (React Query)](https://tanstack.com/) | Typescript |Powerful asynchronous state management for TS/JS, React. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Requests/react-query)  | 02/23 |
+| [ky](https://github.com/sindresorhus/ky)              | Typescript |Ky is a tiny and elegant HTTP client based on the browser Fetch API. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/Requests/ky)  | 01/23 |
+| [Tanstack Query (React Query)](https://tanstack.com/) | Typescript |Powerful asynchronous state management for TS/JS, React. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/Requests/react-query)  | 02/23 |
 
 ### Validation
 
 | Name                                |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
 |:-----------------------------------------|:-----------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|:-----:|
-| [Zod](https://github.com/colinhacks/zod) | Typescript |If you need a guarantee that the data is equivalent to a type, this is your choice. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/Zod)  | 12/22 |
-| [typescript-plugin-css-modules](https://www.npmjs.com/package/typescript-plugin-css-modules) | Typescript |               A TypeScript language service plugin for CSS Modules.                | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Validators/TypescriptPluginCSSModules)  | 01/23 |
+| [Zod](https://github.com/colinhacks/zod) | Typescript |If you need a guarantee that the data is equivalent to a type, this is your choice. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/Validators/Zod)  | 12/22 |
+| [typescript-plugin-css-modules](https://www.npmjs.com/package/typescript-plugin-css-modules) | Typescript |               A TypeScript language service plugin for CSS Modules.                | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/Validators/TypescriptPluginCSSModules)  | 01/23 |
 
 ### UI
 
 | Name                                               |  Languages      |                                    Description                                    |                                     Pet-project                                      | Date  |
 |:---------------------------------------------------|:-----------|:---------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|:-----:|
-| [Framer Motion](https://www.framer.com/motion/) | Typescript |     Framer Motion is a production-ready motion library for React from Framer.     | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/UI/Framer) | 01/23 |
+| [Framer Motion](https://www.framer.com/motion/) | Typescript |     Framer Motion is a production-ready motion library for React from Framer.     | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/UI/Framer) | 01/23 |
 
 ### Testing
 
@@ -71,7 +71,7 @@
 
 # Side experience
 ### Backend
-| Name                                                    |                                    Description                                     |                                    Playground link                                     | 
-|:--------------------------------------------------------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
-| [Simple Telegram Bot (Telegraf.js)](https://www.docker/) | Extra simple boilerplate bot for future projects. Based on typescript and classes. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Sandboxes/Telegram_Bot) |
+| Name                                                    |                                    Description                                     |                                         Playground link                                          | 
+|:--------------------------------------------------------|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+| [Simple Telegram Bot (Telegraf.js)](https://www.docker/) | Extra simple boilerplate bot for future projects. Based on typescript and classes. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Side Experience/Telegram_Bot) |
 
