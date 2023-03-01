@@ -27,7 +27,7 @@
 
 | Name                                            | Languages      |                                  Description                                   |                                          Pet-project                                          | Date |
 |:---------------------------------------------|:---------------|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:| :---: |
-| [Zustand](https://github.com/pmndrs/zustand) | JS, Typescript | Very simple state manager with more than one stores. Using React not required. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/Validators/Zod) | 12 /22 |
+| [Zustand](https://github.com/pmndrs/zustand) | JS, Typescript | Very simple state manager with more than one stores. Using React not required. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/State%20Management/Zustand) | 12 /22 |
 
 ### Requests
 | Name                                                  |  Languages      |                                    Description                                     |                                            Pet-project                                            | Date  |
@@ -46,7 +46,7 @@
 
 | Name                                               |  Languages      |                                    Description                                    |                                     Pet-project                                      | Date  |
 |:---------------------------------------------------|:-----------|:---------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|:-----:|
-| [Framer Motion](https://www.framer.com/motion/) | Typescript |     Framer Motion is a production-ready motion library for React from Framer.     | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/UI/Framer) | 01/23 |
+| [Framer Motion](https://www.framer.com/motion/) | Typescript |     Framer Motion is a production-ready motion library for React from Framer.     | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Packages/UI/Framer%20Motion) | 01/23 |
 
 ### Testing
 
@@ -73,5 +73,5 @@
 ### Backend
 | Name                                                    |                                    Description                                     |                                         Playground link                                          | 
 |:--------------------------------------------------------|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| [Simple Telegram Bot (Telegraf.js)](https://www.docker/) | Extra simple boilerplate bot for future projects. Based on typescript and classes. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Side Experience/Telegram_Bot) |
+| [Simple Telegram Bot (Telegraf.js)](https://www.docker/) | Extra simple boilerplate bot for future projects. Based on typescript and classes. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Side%20Experience/Telegram_Bot) |
 
