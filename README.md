@@ -15,6 +15,13 @@
 | [Docker](https://www.docker.com/) | Docker is an open source platform that enables developers to build, deploy, run, update and manage containers. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Tools/Docker) |
 
 
+# Databases
+### GraphQL
+| Project name    | Stack                                      |                                                                                                                                                 Description                                                                                                                                                  |                                     Playground link                                     |
+|:----------------|--------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| [MoviesList](https://github.com/KoninMikhail/study-playground/tree/master/Databases/GraphQL/MoviesList) | NodeJS 16, mongoose, express, apollo-boost | A MongoDB server was deployed using Docker Compose, then a server was built that interacted with the database through Mongoose. Finally, an application was written that made requests to the server using Apollo Client. This was a small practice project involving GraphQL, Docker and React legacy code. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Databases/GraphQL/MoviesList) |
+
+
 # Frameworks
 | Name                          | Languages      |                                                                              Description                                                                               | Pet-project | Date  |
 |:------------------------------|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|:-----:|
