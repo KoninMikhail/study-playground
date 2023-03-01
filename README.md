@@ -71,7 +71,7 @@
 
 # Side experience
 ### Backend
-| Name                                                    |                                    Description                                     |                                    Playground link                                     | 
-|:--------------------------------------------------------|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
-| [Simple Telegram Bot (Telegraf.js)](https://www.docker/) | Extra simple boilerplate bot for future projects. Based on typescript and classes. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Sandboxes/Telegram_Bot) |
+| Name                                                    |                                    Description                                     |                                         Playground link                                          | 
+|:--------------------------------------------------------|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+| [Simple Telegram Bot (Telegraf.js)](https://www.docker/) | Extra simple boilerplate bot for future projects. Based on typescript and classes. | [Show](https://github.com/KoninMikhail/study-playground/tree/master/Side Experience/Telegram_Bot) |
 
