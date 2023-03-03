@@ -2,12 +2,6 @@ function sum(a, b) {
     return a + b;
 }
 
-// console
-// success: some ads numbers
-// success: sum has valid length
-// error: some ads numbers
-// error: sum has valid length
-
 // test
 // title: string
 // callback: function
@@ -42,6 +36,13 @@ function expect(testedValue) {
         }
     };
 }
+
+
+// console
+// success: some ads numbers
+// success: sum has valid length
+// error: some ads numbers
+// error: sum has valid length
 
 test("some ads numbers", () => {
     const result = sum(5, 10);
