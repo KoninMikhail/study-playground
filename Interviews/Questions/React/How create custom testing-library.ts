@@ -38,7 +38,7 @@ function expect(testedValue) {
 }
 
 
-// console
+// Terminal
 // success: some ads numbers
 // success: sum has valid length
 // error: some ads numbers
