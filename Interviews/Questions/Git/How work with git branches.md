@@ -31,3 +31,8 @@ if you want to delete a branch, you need command:
 ```
 git branch -d <name of branch>
 ```
+
+if you want to delete a remote branch, you need command:
+```
+git push <remote> -delete <branch name>  
+```
