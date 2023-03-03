@@ -5,6 +5,8 @@
 ---
 * What is a branch in git? 
 * How to create a new branch? 
+* How to create a new branch and goto it?
+* How switch branches
 * How to delete a branch, what happens when a branch is deleted?
 ---
 
@@ -19,6 +21,10 @@ git branch <name of new branch>
 if you want to create a new branch and goto it, you need this command:
 ```
 git checkout branch <name of new branch> 
+```
+if you want switch a branch, follow this command:
+```
+git checkout <name of branch>
 ```
 
 if you want to delete a branch, you need command:
